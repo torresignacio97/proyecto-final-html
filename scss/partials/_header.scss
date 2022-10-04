@@ -15,23 +15,17 @@
 .logotipoOptica {
     grid-area: item1;
     height: 90px;
-    top: 15px;
+    top: 10px;
     display: flex;
     flex-direction: row;
-    margin-top: -30px;
+    margin-top: -70px;
     left: 200px;
 
     .logo {
-        width: 100%;
-        height: 80px;
+        width: 140%;
+        height: 140%;
     }
     
-    .encabezadoTitulo {
-        width: 800px;
-        font-size: 60px;
-        font-family: 60px;
-        display: flex;
-    }
 }
 
 .navbar {
@@ -132,7 +126,7 @@
       }
       
       ul li:nth-child(3) a:before {
-        background: #0077b5;
+        background: #b50085;
       }
       
       ul li:nth-child(4) a:before {

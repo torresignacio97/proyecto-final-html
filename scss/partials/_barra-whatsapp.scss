@@ -3,29 +3,7 @@
     height: 50px;
     padding: 5px;
     background-color: #00072D;
-
-    .barraBusqueda {
-        position: absolute;
-        padding: 5px;
-        right: 80px;
-        top: 10px;
-
-        input {
-            width: 0px;
-            height: 25px;
-            padding: 0 10px;
-            font-size: 15px;
-            color: #000;
-            outline: none;
-            border: 1px solid silver;
-            border-radius: 30px;
-            transition: all 0.6s ease;
-        }
-    }
-
-
 }
-
 
 .barraBusqueda {
     position: absolute;
@@ -46,12 +24,12 @@
 }
 .btn {
     position: absolute;
-    top: 0%;
+    top: 5%;
     right: 0%;
     background: #0E6BA8;
     width: 30px;
     height: 30px;
-    line-height: 18px;
+    line-height: 15px;
     text-align: center;
     color: white;
     font-size: 15px;
@@ -63,9 +41,7 @@
 }
 .barraBusqueda input:focus {
     width: 240px;
-} */
-
-/* Contactanos por WhatsApp*/
+} 
 
 .barraWhatsapp {
     display: flex;
